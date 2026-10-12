@@ -1,0 +1,18 @@
+Updated visual direction
+
+Primary conversion: start an online consultation, share health history and discuss suitability with a clinician.
+
+1. Interactive goal selector: a navy section with large selectable goals and a continuation CTA. The mockup illustrates the intended interaction; it is not implemented software.
+2. Asymmetric editorial photography: varied image proportions replace repetitive uniform rows.
+3. Clinical conversation feature: clinician imagery and a consultation interface support the human care journey. Images are illustrative.
+4. Treatment explorer: a large product render and format tabs present options as a subject for clinical discussion.
+5. Final CTA: a prominent navy/teal closing section with a clear consultation action.
+6. Footer: substantial navigation, support and legal areas, followed by a large low-contrast PRIMED wordmark.
+
+Latest mockups:
+mockups/primed-desktop-v3.png
+mockups/primed-mobile-v3.png
+
+The earlier combined board is retained for comparison. Latest individual desktop/mobile images supersede it.
+
+All testimonials and professional perspectives in the mockups are illustrative. Replace with approved genuine material before publication. Clinical imagery and package renders are design assets, not evidence of actual staff, availability or regulatory status.
